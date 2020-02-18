@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bftpClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bftpClient_jar</output-path>
+    <root id="archive" name="bftpClient.jar">
+      <element id="module-output" name="bftpClient" />
+      <element id="module-output" name="Shared" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-io-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bftpServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bftpServer_jar</output-path>
+    <root id="archive" name="bftpServer.jar">
+      <element id="module-output" name="bftpServer" />
+      <element id="module-output" name="Shared" />
+    </root>
+  </artifact>
+</component>
